@@ -1,0 +1,3 @@
+# Este archivo mantiene el directorio reportes/ en el repositorio
+# Los archivos PDF y PNG generados por la aplicación se guardarán aquí
+# pero no se incluirán en el control de versiones por privacidad
