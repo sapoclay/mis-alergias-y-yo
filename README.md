@@ -1,5 +1,7 @@
 # 💊 Mis Alergias y Yo
 
+![about-mis-alergias-y-yo](https://github.com/user-attachments/assets/0d7f1e5d-24fb-4a1c-a429-3ac0b6609e5f)
+
 **Seguimiento de alergias medicamentosas post-operatorias**
 
 Esta es una pequeña aplicación que se ha creado para el monitoreo y seguimiento de alergias medicamentosas por descongestivos nasales tras una cirugía de cornetes nasales a la que me he sometido hace poco.
@@ -23,6 +25,7 @@ Esta es una pequeña aplicación que se ha creado para el monitoreo y seguimient
 ## ✨ Características principales
 
 ### 📊 Registro completo de síntomas
+![mis-alergias-y-yo-formulario](https://github.com/user-attachments/assets/72c98b7e-9724-4fdb-ba28-e722700560a2)
 - **Síntomas nasales**: Congestión, picor, dolor, tipo de secreción
 - **Síntomas respiratorios**: Dificultad para respirar, tos, estornudos
 - **Síntomas cutáneos**: Erupciones, urticaria, hinchazón
@@ -35,6 +38,7 @@ Esta es una pequeña aplicación que se ha creado para el monitoreo y seguimient
 - Alertas de seguridad
 
 ### 📈 Visualización de datos
+![mis-alergias-y-yo-graficos](https://github.com/user-attachments/assets/e6322046-8104-4c36-bd76-cebbfa635064)
 - **4 gráficos especializados**:
   - Evolución de síntomas nasales
   - Días desde suspensión de medicamentos
